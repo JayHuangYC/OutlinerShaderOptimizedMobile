@@ -1,2 +1,2 @@
 # OutlinerShaderOptimizedMobile
-Useful and mobile-optimized Outliner shader
+Unity shader: Useful and mobile-optimized Outliner shader
